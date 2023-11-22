@@ -1,0 +1,2 @@
+Los activos necesarios se crean automáticamente (Workdefinitions y formularios)
+Hay que adaptar los formularios para que pidan SOLO los datos demandados por teclado.

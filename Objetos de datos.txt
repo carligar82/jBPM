@@ -1,0 +1,3 @@
+Incluir en Ajustes>Objetos de datros externos ...
+java.util.Date
+java.text.SimpleDateFormat
